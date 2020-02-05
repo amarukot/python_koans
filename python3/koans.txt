@@ -1,12 +1,8 @@
 # Lines starting with # are ignored.
 
-# koans.about_classes.AboutClasses
-# koans.about_class_attributes.AboutClassAttributes
-# koans.about_methods.AboutMethods
-# koans.about_attribute_access.AboutAttributeAccess
-# koans.about_inheritance.AboutInheritance
 
 
+# HOMEWORK
 koans.about_asserts.AboutAsserts
 koans.about_strings.AboutStrings
 koans.about_lists.AboutLists
@@ -15,3 +11,9 @@ koans.about_lists.AboutLists
 # koans.about_string_manipulation.AboutStringManipulation
 # koans.about_control_statements.AboutControlStatements
 
+# LAB
+koans.about_classes.AboutClasses
+koans.about_class_attributes.AboutClassAttributes
+koans.about_methods.AboutMethods
+koans.about_attribute_access.AboutAttributeAccess
+# koans.about_inheritance.AboutInheritance
